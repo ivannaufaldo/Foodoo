@@ -1,0 +1,1069 @@
+body
+{
+    background-color: #f7f7f7;
+}
+
+.row 
+{
+    margin-top: 50px;
+}
+
+a#logo.nav-link
+{
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 126px;
+    text-align: justify;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dropdown-toogle
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 26px;
+    text-align: justify;
+    color: #000000;
+}
+
+a#about-us.nav-link , a#kategori.nav-link , a#kategori.nav-link , a#login.nav-link , a#sign-up.nav-link , a#shopping-cart , a#riwayat-pesanan , a#profile , a#makanan , a#logout , #dropdownMenuLink , a#kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 26px;
+    text-align: justify;
+    color: #000000;
+} 
+
+.motto-text-1
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #000000;
+}
+
+.motto-text-2
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    bottom: 0;
+    color: #606060;
+}
+
+.list-rekomendasi-makanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 26px;
+    text-align: justify;
+    color: #000000;
+}
+
+.how-to-order-text
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    margin-top: 77px;
+    margin-bottom: 77px;
+    text-align: justify;
+    color: #000000;
+}
+
+.text-prosedur-pemesanan
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 42px;
+    color: #000000;
+}
+
+
+.prosedur-pemesanan
+{
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    background: #FDA43F;
+}
+
+#text-konfirmasi-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+}
+
+#cancel-konfirmasi-pesanan
+{
+    margin-top: 50px;
+    width: 336px;
+    height: 78px;
+    background: #FD8D69;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color : #000000;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#btn-konfirmasi-pesanan 
+{
+    margin-top: 50px;
+    width: 336px;
+    height: 78px;
+    background: rgba(253, 164, 63, 0.78);
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color : #000000;
+}
+
+#text-konfirmasi-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+#konf-id-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+.prosedur
+{
+    margin-left: 250px;
+}
+
+.prosedur-2 , .prosedur-4
+{
+    padding-top: 104px;
+}
+
+#footer-logo-foodoo
+{
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 126px;
+    text-align: center;
+    color: #000000;
+    border: 3px solid #F7F7F7;
+    margin-top: 100px;
+}
+
+.img-contact
+{
+    width : 73px;
+    height : 73px;
+    padding : 5px;
+}
+
+.footer-text
+{
+    margin-top: 189px;
+}
+
+.border-footer
+{
+    width: auto;
+    height: 76px;
+    background: #FDA43F;
+}
+
+#footer-text
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: justify;
+    color: #606060;
+}
+
+.card-ml-3
+{
+    background: #F7F7F7;
+    border-radius: 35px;
+}
+
+.sidenav-kategori-1 , .sidenav-kategori-2 , .sidenav-kategori-3
+{
+    background: #ffffff;
+    width: 400px;
+    height: fit-content;
+    border-radius: 80px;
+    margin-left: 25%;
+    margin-right : 25%;
+    margin-top : 100px;
+    padding-top: 51px;
+    padding-bottom: 51px;
+}
+
+.Kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 65px;
+    text-align: justify;
+    color: #000000;
+}
+
+.filter-nama-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 49px;
+    color: #000000;
+}
+
+.kategori-card
+{
+    border-radius: 35px;
+}
+
+.card-img-top {
+    width: 398px;
+    height: 274px;
+    border-radius: 35px 27px 0px 0px;
+}
+
+#kategori-harga-makanan
+{
+    color : #FDA43F;
+}
+
+#nama-makanan-kategori
+{
+    font-weight: bold;
+}
+
+a.btn-primary
+{
+    background-color: #FD941F;
+    border : #FD941F;
+    border-radius: 12px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 24px;
+    text-align: justify;
+    color: #FFFFFF;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.img-homepage
+{
+    width : 100%;
+    height : 455px;
+}
+
+#foodoo-login
+{
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 126px;
+    text-align: justify;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.login-button , .sign-up-button
+{
+    background: rgba(253, 164, 63, 0.78);
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 64px;
+    color : #000000;
+}
+
+#tambah-makanan
+{
+    width : 250px;
+    height : 46px;
+    font-size : 20px;
+    text-align: center;
+}
+
+#foodoo-login , #foodoo-sign-up , .foodoo-kategori
+{
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 126px;
+    text-align: justify;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#label-login , #label-sign-up
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+#label-username , #label-password , #label-email , #label-nama-register , #label-no-telp-register , #label-umur-register , #label-alamat-register
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 35px;
+}
+
+input#username , input#password ,input#email ,input#nama-register , input#no-telp-register , input#umur-register , input#alamat-register
+{
+    background: #FDA43F;
+    border : #FDA43F;
+}
+
+.check-account-register
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+input#submit-login ,input#submit-register
+{
+    background: #FDA43F;
+    border : #FDA43F;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom : 50px;
+    width : 150px;
+}
+
+#goto-sign-up
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+.img-rekomen-makanan
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 48px 48px 0px 0px;
+}
+
+.rekomen-makanan{
+    text-align : center;
+}
+
+.list-rekomendasi-makanan
+{
+    background: #FFFFFF;
+    border-radius: 48px;
+}
+
+.background-image-profile
+{
+    width : 100%;
+    height : 443px;
+    background: #FDA43F;
+    padding-top: 50px;
+}
+
+#image-profile
+{
+    width: 280px;
+    height: 273px;
+    border-radius: 50%;
+    object-fit : cover;
+    border: 4px solid #FFFFFF;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#change_picture
+{
+    width: 289px;
+    height: 34px;
+    background: #D5D5D5;
+    border-radius: 40px;
+    text-align: center;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color : #000000;
+}
+
+#submit-profile 
+{
+    background: rgba(253, 164, 63, 0.78);
+    border-radius: 50px;
+    width: 336px;
+    height: 48px;
+}
+
+#nama , #no-telp , #umur , #alamat
+{
+    width: 527px;
+    height: 44px;
+    background: #FFCE96;
+} 
+
+.label-profile
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+}
+
+.detail-pesanan
+{
+    color : #000000;
+    font-size : 38px;   
+    text-transform: uppercase;
+}
+
+.riwayat-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color : #000000;
+}
+
+#riwayat-detail-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color : #000000;
+    float : right;
+}
+
+.img-item-shopping-cart
+{
+    width: 350px;
+    object-fit: cover;
+    height: 275px;
+    border-radius: 35px;
+    background : #F7F7F7;
+    margin : auto;
+}
+
+
+.item-shopping-cart-1
+{
+    margin : auto;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+.item-shopping-cart-2
+{
+    margin : auto;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;    
+}
+
+.item-shopping-cart-3
+{
+    margin : auto;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #FDA43F;
+}
+
+.border-cart 
+{
+    width: 430px;
+    height: 30px;
+    background: #FDA43F;
+}
+
+.border-riwayat-pesanan
+{
+    width: 430px;
+    height: 30px;
+    background: #FDA43F;
+}
+
+.border-admin
+{
+    width: 430px;
+    height: 30px;
+    background: #FDA43F;
+}
+
+.border-toko
+{
+    width: 430px;
+    height: 30px;
+    background: #FDA43F;
+}
+
+#order
+{
+    margin-right: auto;
+    background-color : #FDA43F;
+}
+
+.square
+{
+    width : 75%;
+    height : auto;
+    margin : auto;
+}
+
+#alamat-tujuan , .header-total-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+}
+
+#Alamat
+{
+    height : 115px;
+    font-size : 28px;
+}
+
+.bg-total-pesanan
+{
+    width: fit-content;
+    height: 86px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color : #FDA43F;
+}
+
+#order
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color : #000000;
+    background-color: rgba(253, 164, 63, 0.78);
+    width: 150px;
+    height: 57px;
+    border-radius: 10px;
+}
+
+.border
+{
+    margin-left: 75%;
+}
+
+#destroy-cart
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color : #000000;
+    width: auto;
+    height: 57px;
+    padding-top: 8px;
+    border-radius: 10px;
+    background: #D5C0A8;
+}
+
+.button-shopping-cart
+{
+    margin-left: 75%;
+    margin-right : 0;
+}
+
+.profile-admin
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.background-kategori
+{
+    width : 80%;
+    height : auto;
+    margin-left: auto;
+    margin-right: auto;
+    background: #F5D3AD;
+    border-radius: 13px;
+}
+
+.kategori-admin
+{
+    width : 90%;
+    height : auto;
+}
+
+#add-kategori 
+{
+    margin-left: 71%;
+}
+.data-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.list-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+#list-kategori-admin
+{
+    margin-left: 25%;
+}
+
+.delete
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;  
+    font-size: 24px;
+    border-radius : 15px;
+    width : 250px;
+    background-color: #FD8D69;
+    border : #FD8D69;
+    color : #000000;
+}
+
+
+.edit 
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;  
+    font-size: 24px;
+    border-radius : 15px;
+    width : 250px;
+    background-color: #D5C0A8;
+    border : #D5C0A8;
+}
+
+.konfirmasi-delete-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.Data-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.konfirmasi-text
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#cancel-delete-k
+{
+    width: 336px;
+    height: 78px;
+    background: rgba(253, 164, 63, 0.78);
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top : 20px;
+    color : #000000;
+}
+
+#confirm-delete-k
+{
+    width: 336px;
+    height: 78px;
+    background: rgba(253, 164, 63, 0.78);
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color : #000000;
+}
+
+#label-id-kategori
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top : 48px;
+}
+
+#label-nama-kategori 
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 48px;
+}
+
+input#nama-kategori , input#id-kategori
+{
+    width: 80%;
+    height: 55px;
+    background: #F5D3AD;
+    border-radius: 13px;
+    font-size : 28px;
+}
+
+#update-kategori 
+{
+    background: rgba(253, 164, 63, 0.78);
+    width: 244px;
+    height: 70px;
+    float : right;
+    margin-top: 164px;
+}
+
+#save
+{
+    width: 244px;
+    height: 60px;
+    background: #FDA43F;
+    border: #FDA43F;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    float : right;
+    margin-top: 164px;
+}
+
+.border-detail-pesanan
+{
+    margin-left: auto;
+    margin-right: auto;
+    width : 90%;
+    height: 79px;
+    background: #ffffff;
+}
+
+.kode-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    padding-top: 15px;
+}
+
+#buttonDetail
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color : #000000;
+}
+
+.proses-pemesanan
+{
+    margin-bottom: 408px;
+}
+
+.image-makanan-toko
+{
+    width: 350px;
+    height: 274px;
+    object-fit: cover;
+    border-radius: 35px 27px 0px 0px;
+}
+
+.detail-product-toko
+{
+    width: 350px;
+    height: 459px;
+    background: #FFFFFF;
+    border-radius: 35px;
+}
+
+.product-toko
+{
+    margin-left : auto;
+    margin-right : auto;
+    justify-content: center;
+}
+
+.nama-makanan-toko
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    margin-top : 25px;
+}
+
+#buttonDelete 
+{
+    width: 124px;
+    height: 45.39px;
+    background: #FD8D69;
+    border-radius: 17px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+#buttonEdit
+{
+    width: 124px;
+    height: 45.39px;
+    background: #D5C0A8;
+    border-radius: 17px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.product-toko{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-add-makanan
+{
+    margin-left : 58%;
+}
+
+.list-makanan-toko
+{
+    margin-right : 100px;
+}
+
+.profil-toko-makanan
+{
+    margin-left : 200px;
+}
+
+input#nama-makanan , input#harga-makanan , select#kategori-makanan , textarea#deskripsi-makanan
+{
+    background-color:#F5D3AD;
+
+}
+
+input#gambar-makanan
+{
+    width : fit-content;
+    background-color:#F5D3AD;
+}
+
+a#cancel-add-makanan , a#cancel-update-makanan
+{
+    background: #D5C0A8;
+    border-radius: 18px;
+    width: 150px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #000000;
+}
+
+#submit-add-makanan
+{
+    background: #FDA43F;
+    border-radius: 18px;
+    width: 150px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #000000;
+}
+
+#submit-update-makanan
+{
+    background: #FDA43F;
+    border-radius: 18px;
+    width: 150px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #000000;
+}
+
+#nama-makanan , #harga-makanan , #kategori-makanan , #gambar-makanan , #deskripsi-makanan 
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color : #000000;
+}
+
+.logo-foodoo
+{
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.konfirmasi-text-delete
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+}
+
+.delete-id-makanan , .delete-nama-makanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;
+}
+
+.delete-makanan{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+}
+#cancel-delete-makanan
+{
+    width: 336px;
+    height: 78px;
+    background: #FDA43F;
+    padding-top: 19px;
+    text-align: center;
+    font-size : 24px;
+}
+
+#btn-delete-makanan 
+{
+    width: 336px;
+    height: 78px;
+    background: #FDA43F;
+    font-size : 24px;
+}
+
+.id-detail-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.header-detail-pesanan
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.table
+{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+}
